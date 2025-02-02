@@ -1,0 +1,330 @@
+.mainsection {
+  background-image: url(—Pngtree—top\ view\ of\ computer\ graphics_15553159.png);
+  height: 95vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+body {
+  background-color: black;
+}
+
+.mainsection1 {
+}
+nav {
+  display: flex;
+  height: 62px;
+  justify-content: space-between;
+  max-width: 100vw;
+  margin: auto;
+  border: 2px solid black;
+  background-color: rgb(0, 0, 0);
+  border-radius: 7px;
+  opacity: 0.7;
+}
+#navi {
+}
+#navbar1 {
+  color: rgb(255, 0, 0);
+  text-decoration: underline 3px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+#navbar2 {
+  color: rgb(255, 0, 0);
+  text-decoration: underline 3px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+#navbar3 {
+  color: rgb(255, 0, 0);
+  text-decoration: underline 3px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.navbar4 {
+  padding-right: 20px;
+  color: rgb(255, 0, 0);
+  text-decoration: underline 3px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+#navbutton {
+  background-color: red;
+  color: black;
+  border: 2px solid red;
+  border-radius: 5px;
+}
+.mainsection2 {
+}
+.photossection {
+  display: flex;
+  align-items: center;
+  height: 270px;
+  width: 200px;
+  border: 4px solid rgb(239, 7, 7);
+  margin: 40px;
+  border-radius: 5px;
+
+  position: relative;
+}
+.rtx480 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+}
+.rtx480:hover {
+  background-color: red;
+}
+img:hover {
+  background-color: red;
+  transform: scale(1.1);
+}
+
+.hero-section {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  width: 50vw;
+  height: 30vw;
+  font-size: 4vw;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+}
+.title {
+  padding: 15%;
+}
+
+.price1 {
+  z-index: 1;
+  color: rgb(255, 255, 255);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rtx470 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 18vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.rtx470:hover {
+  background-color: red;
+}
+.price2 {
+  z-index: 1;
+  color: rgb(242, 242, 242);
+}
+.buy1 {
+  margin-top: 8px;
+}
+.ti4060 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 36vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.ti4060:hover {
+  background-color: red;
+}
+.price3 {
+  color: rgb(242, 242, 242);
+}
+.super4070 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 54vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.super4070:hover {
+  background-color: red;
+}
+.price4 {
+  color: white;
+}
+.gre7900amd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 72vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.gre7900amd:hover {
+  background-color: red;
+}
+.price5 {
+  color: white;
+}
+.arc380 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 23vw;
+  left: 0vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.arc380:hover {
+  background-color: red;
+}
+.price6 {
+  color: white;
+}
+.rx7600 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 23vw;
+  left: 18vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.rx7600:hover {
+  background-color: red;
+}
+.price7 {
+  color: white;
+}
+.xt7800amd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 23vw;
+  left: 36vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.xt7800amd:hover {
+  background-color: red;
+}
+.price8 {
+  color: white;
+}
+.xtxamd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 23vw;
+  left: 54vw;
+  border: 4px solid red;
+  height: 270px;
+  width: 200px;
+  border-radius: 5px;
+}
+.xtxamd:hover {
+  background-color: red;
+}
+.price9 {
+  color: white;
+}
+.more{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+  position: absolute;
+  top: 95vw;
+  left: 50vw;
+  border-radius: 5px;
+}
+#morebutton{
+  color: rgb(255, 255, 255);
+  background-color: red;
+  height: 25px;
+  width: 50px;
+  border-radius: 5px;
+}
+footer{
+  height: 400px;
+  max-width: 1300px;
+  border: 2px solid red;
+  margin-top: 30%;
+  background-color: rgb(239, 7, 7);
+  
+}
+.footer1{
+  color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  padding:3% 1%;
+}
+#heading1{
+  font-size:  xx-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+#paragraph1{
+  font-size: larger;
+  padding:6% 0 0 -1% ;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.svgs{
+  display: flex;
+  gap: 10px;
+  margin: 2%;
+}
